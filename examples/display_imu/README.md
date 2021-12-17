@@ -4,7 +4,8 @@ This is Pico4MLcbot for line following based on Pico4ML's camera:
 ![res/Pico4MLcbot.jpg](res/Pico4MLcbot.jpg)  
 
 display_imu example will be the basis for creating Pico4MLibot, that will do IMU based 2-wheel balancing:  
-![res/070403_014401_anim.gif](res/070403_014401_anim.gif)  
+![res/070403_014401_anim.gif](res/070403_014401_anim.gif) &nbsp;&nbsp;&nbsp; ![res/20211217_034945.part.05pc.jpg](res/20211217_034945.part.05pc.jpg)  
+
 
 Pico4ML-BLE has ICM20948, Pico4ML has ICM42622 IMU:  
 ![res/20211217_015458.part.25pc.jpg](res/20211217_015458.part.25pc.jpg)
