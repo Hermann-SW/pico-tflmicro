@@ -1,0 +1,16 @@
+int PIN_CAM_SIOD        = 4;  // I2C0 SDA
+int PIN_CAM_SIOC        = 5;  // I2C0 SCL
+int PIN_CAM_RESETB      = 2;
+int PIN_CAM_XCLK        = 3;
+int PIN_CAM_VSYNC       = 16;  // GP15 hsync  GP14 pixel clock
+int PIN_CAM_Y2_PIO_BASE = 6;   // data GPIO6
+#define UART_TX_PIN 0
+#define UART_RX_PIN 1
+int EPD_RST_PIN = 7;
+int EPD_DC_PIN = 9;
+int EPD_CS_PIN = 13;
+int EPD_CLK_PIN = 10;
+int EPD_MOSI_PIN = 11;
+#define ST7735_RES_Pin GPIO_PIN_7
+#define ST7735_CS_Pin GPIO_PIN_6
+#define ST7735_DC_Pin GPIO_PIN_9

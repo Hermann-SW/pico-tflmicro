@@ -402,4 +402,5 @@ add_subdirectory("examples/person_detection")
 add_subdirectory("examples/magic_wand")
 add_subdirectory("examples/micro_speech")
 add_subdirectory("examples/magic_wand_ble")
+add_subdirectory("examples/display_imu")
 
