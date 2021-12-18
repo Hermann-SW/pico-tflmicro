@@ -10,6 +10,10 @@ display_imu example will be the basis for creating Pico4MLibot, that will do IMU
 Pico4ML-BLE has ICM20948, Pico4ML has ICM42622 IMU:  
 ![res/20211217_015458.part.25pc.jpg](res/20211217_015458.part.25pc.jpg)
 
+ICM20948 is a 9-axis IMU, and "imuDataGet()" allows to query 3 angles in addition to the 3×3 x/y/z values for accel/gyro/magnet. With latest commit simple analog display demo of sensor roll value is added:  
+![res/outi.anim.gif](res/outi.anim.gif)   
+
+
 See instructions on [Quick Pico Setup](#quick-pico-setup) below in case you have not setup Pico already.
 
 - Download pico-tflmicro
