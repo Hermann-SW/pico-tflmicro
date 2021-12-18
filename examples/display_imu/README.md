@@ -24,7 +24,7 @@ git clone https://github.com/Hermann-SW/pico-tflmicro.git
 
 - Compile ...  
 ```bash
-cd pico-tflmicro/display_imu
+cd pico-tflmicro/examples/display_imu
 mkdir build 
 cd build 
 cmake ..
